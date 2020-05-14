@@ -1,6 +1,6 @@
 MeanMenu v2.0.8
 ===========
-
+https://vicmx.github.io/meanMenu/. 
 Looking for a WordPress version?
 ---
 Our friends over at PluginHero have just released the <a href="http://pluginhero.com/portfolio/meanmenu/">WordPress version of MeanMenu</a>.
